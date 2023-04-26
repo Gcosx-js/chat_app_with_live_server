@@ -1,0 +1,1 @@
+First you need to open the server. Then the client is connected by running the 'chat app' file.
